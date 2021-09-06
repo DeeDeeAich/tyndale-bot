@@ -1,2 +1,2 @@
-# cr-definitions-bot
+# tyndale-bot
 A Discord bot using discord.py that serves as a theological dictionary. 
